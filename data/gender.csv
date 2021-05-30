@@ -1,0 +1,408 @@
+name,source,gender,wikidata,type
+"Avenue des Archiducs",wikidata,+,Q158256;Q311452,way
+"Rue Marie et Pierre Curie",wikidata,+,Q7186;Q37463,way
+"Rue Nina et Julien Lefèvre",wikidata,+,Q16439671;Q16439483,way
+"Avenue Amélie",wikidata,F,Q452972,way
+"Avenue Marie-Thérèse",wikidata,F,Q131706,way
+"Boulevard Grande-Duchesse Charlotte",wikidata,F,Q155608,way
+"Boulevard Grande-Duchesse Joséphine-Charlotte",wikidata,F,Q160984,way
+"Place Jeanne d'Arc",wikidata,F,Q7226,way
+"Place Sainte-Cunégonde",wikidata,F,Q61620,way
+"Pont Grande-Duchesse Charlotte",wikidata,F,Q155608,way
+"Pont Margot Libens-Reiffers",wikidata,F,Q88369447,way
+"Rue Andrea Costa-Delvaux",wikidata,F,Q87270953,way
+"Rue Anne Beffort",wikidata,F,Q13101548,way
+"Rue Annette Schwall-Lacroix",wikidata,F,Q16440147,way
+"Rue Astrid",wikidata,F,Q230238,way
+"Rue Béatrix de Bourbon",wikidata,F,Q269586,way
+"Rue Caroline Baldauff-Rothermel",wikidata,F,Q87613086,way
+"Rue Charlotte Engels",wikidata,F,Q16439132,way
+"Rue Ermesinde",wikidata,F,Q266160,way
+"Rue Fanny Leclerc",wikidata,F,Q96100366,way
+"Rue Hildegard von Bingen",wikidata,F,Q70991,way
+"Rue Irmine",wikidata,F,Q289060,way
+"Rue Lise Meitner",wikidata,F,Q56189,way
+"Rue Lou Koster",wikidata,F,Q6685586,way
+"Rue Louise Michel",wikidata,F,Q216092,way
+"Rue Marguerite Mongenast-Servais",wikidata,F,Q16439863,way
+"Rue Marguerite Thomas-Clement",wikidata,F,Q13104033,way
+"Rue Marguerite de Brabant",wikidata,F,Q271713,way
+"Rue Marguerite de Busbach",wikidata,F,Q87411831,way
+"Rue Marguerite-Séraphine Beving",wikidata,F,Q16438942,way
+"Rue Marie de Zorn",wikidata,F,Q87408803,way
+"Rue Marie-Adélaïde",wikidata,F,Q159075,way
+"Rue Marie-Louise Tidick-Ulveling",wikidata,F,Q13104042,way
+"Rue Marie-Thérèse Glaesener-Hartmann",wikidata,F,Q13104045,way
+"Rue Mère Franziska",wikidata,F,Q88869547,way
+"Rue Notre-Dame",wikidata,F,Q345,way
+"Rue Rosalind Franklin",wikidata,F,Q7474,way
+"Rue Rosemarie Kieffer",wikidata,F,Q13104885,way
+"Rue Sainte-Catherine",wikidata,F,Q179718,way
+"Rue Sainte-Thérèse-d'Ávila",wikidata,F,Q174880,way
+"Rue Sainte-Zithe",wikidata,F,Q744884,way
+"Rue Simone de Beauvoir",wikidata,F,Q7197,way
+"Rue Yolande",wikidata,F,Q328936,way
+"Rue de la Reine",wikidata,F,Q160800,way
+"Allée Dwight D. Eisenhower",wikidata,M,Q9916,way
+"Allée Léopold Goebel",wikidata,M,Q13103890,way
+"Allée Marconi",wikidata,M,Q36488,way
+"Allée Pierre de Mansfeld",wikidata,M,Q701932,way
+"Allée Scheffer",wikidata,M,Q3246562,way
+"Avenue Charles de Gaulle",wikidata,M,Q2042,way
+"Avenue Émile Reuter",wikidata,M,Q286417,way
+"Avenue Gaston Diderich",wikidata,M,Q2320265,way
+"Avenue Guillaume",wikidata,M,Q158235,way
+"Avenue Jean-Pierre Pescatore",wikidata,M,Q3169635,way
+"Avenue John F. Kennedy",wikidata,M,Q9696,way
+"Avenue Joseph Sax",wikidata,M,Q28357228,way
+"Avenue Monterey",wikidata,M,Q2944596,way
+"Avenue Pasteur",wikidata,M,Q529,way
+"Avenue Victor Hugo",wikidata,M,Q535,way
+"Boulevard Charles Simonis",wikidata,M,Q3247358,way
+"Boulevard Docteur Charles Marx",wikidata,M,Q2025919,way
+"Boulevard Docteur Ernest Feltgen",wikidata,M,Q20558336,way
+"Boulevard Emmanuel Servais",wikidata,M,Q269726,way
+"Boulevard Franklin D. Roosevelt",wikidata,M,Q8007,way
+"Boulevard Friedrich Wilhelm Raiffeisen",wikidata,M,Q45141,way
+"Boulevard General George S. Patton",wikidata,M,Q186492,way
+"Boulevard Gustave Jacquemart",wikidata,M,Q13102897,way
+"Boulevard Jean Ulveling",wikidata,M,Q6171617,way
+"Boulevard John J. Pershing",wikidata,M,Q272383,way
+"Boulevard Joseph II",wikidata,M,Q76555,way
+"Boulevard Jules Salentiny",wikidata,M,Q13103411,way
+"Boulevard Konrad Adenauer",wikidata,M,Q2492,way
+"Boulevard Marcel Cahen",wikidata,M,Q16438995,way
+"Boulevard Napoléon 1er",wikidata,M,Q517,way
+"Boulevard Paul Eyschen",wikidata,M,Q945406,way
+"Boulevard Pierre Dupong",wikidata,M,Q945927,way
+"Boulevard Pierre Frieden",wikidata,M,Q706106,way
+"Boulevard Pierre Werner",wikidata,M,Q315661,way
+"Boulevard Prince Charles",wikidata,M,Q1124323,way
+"Boulevard Prince Félix",wikidata,M,Q445045,way
+"Boulevard Prince Henri",wikidata,M,Q705129,way
+"Boulevard Robert Baden-Powell",wikidata,M,Q12665,way
+"Boulevard Robert Schuman",wikidata,M,Q15981,way
+"Boulevard Royal",wikidata,M,Q125649,way
+"Boulevard Victor Thorn",wikidata,M,Q976032,way
+"Passage Roger Manderscheid",wikidata,M,Q1384335,way
+"Passerelle cyclable pont Adolphe",wikidata,M,Q57302,way
+"Place Abbé Prosper-Jean-Charles Mullendorff",wikidata,M,Q13102090,way
+"Place Auguste Laurent",wikidata,M,Q766718,way
+"Place François-Joseph Dargent",wikidata,M,Q16439047,way
+"Place Guillaume II",wikidata,M,Q154287,relation+way
+"Place Jean Heinisch",wikidata,M,Q24287738,way
+"Place Joseph Thorn",wikidata,M,Q16440228,way
+"Place Léon XIII",wikidata,M,Q43922,way
+"Place Maurice Pescatore",wikidata,M,Q13104096,way
+"Place Saint-Willibrord",wikidata,M,Q160714,way
+"Place Virchow",wikidata,M,Q76432,way
+"Place Winston Churchill",wikidata,M,Q8016,way
+"Pont Adolphe",wikidata,M,Q57302,way
+"Pont Jean-Pierre Buchler",wikidata,M,Q13103209,way
+"Pont Joseph Bech",wikidata,M,Q315685,way
+"Rond-Point Christoph Willibald Gluck",wikidata,M,Q130759,way
+"Rond-Point Robert Schaffner",wikidata,M,Q7349611,way
+"Rond-Point Robert Schuman",wikidata,M,Q15981,way
+"Rond-Point Serra",wikidata,M,Q321245,way
+"Rue Abbé François Lascombes",wikidata,M,Q16439655,way
+"Rue Abbé Lemire",wikidata,M,Q3085048,way
+"Rue Adolphe",wikidata,M,Q57302,way
+"Rue Adolphe Fischer",wikidata,M,Q24259441,way
+"Rue Albert 1er",wikidata,M,Q55008046,way
+"Rue Albert Borschette",wikidata,M,Q1384198,way
+"Rue Albert Calmes",wikidata,M,Q2831005,way
+"Rue Albert Einstein",wikidata,M,Q937,way
+"Rue Albert Philippe",wikidata,M,Q13101444,way
+"Rue Albert Unden",wikidata,M,Q96099821,way
+"Rue Albert Wehrer",wikidata,M,Q877339,way
+"Rue Alcide de Gasperi",wikidata,M,Q153832,way
+"Rue Aldringen",wikidata,M,Q62332,way
+"Rue Alexandre Fleming",wikidata,M,Q37064,way
+"Rue Alfred Kowalsky",wikidata,M,Q2645321,way
+"Rue Alfred de Musset",wikidata,M,Q179680,way
+"Rue Aloyse Kayser",wikidata,M,Q13101481,way
+"Rue Aloyse Meyer",wikidata,M,Q13101479,way
+"Rue Alphonse Munchen",wikidata,M,Q4735379,way
+"Rue Alphonse Rupprecht",wikidata,M,Q77248379,way
+"Rue Alphonse Weicker",wikidata,M,Q13101502,way
+"Rue Anatole France",wikidata,M,Q42443,way
+"Rue André Chevalier",wikidata,M,Q25583262,way
+"Rue André Duchscher",wikidata,M,Q13101529,way
+"Rue Antoine Godart",wikidata,M,Q13101561,way
+"Rue Antoine Jans",wikidata,M,Q13101555,way
+"Rue Antoine Lavoisier",wikidata,M,Q39607,way
+"Rue Antoine Luja",wikidata,M,Q13101564,way
+"Rue Antoine Meyer",wikidata,M,Q4775516,way
+"Rue Antoine Zinnen",wikidata,M,Q945994,way
+"Rue Antoine de Saint-Exupéry",wikidata,M,Q2908,way
+"Rue Antoine-François van der Meulen",wikidata,M,Q349377,way
+"Rue Aristide Briand",wikidata,M,Q179888,way
+"Rue Arthur Herchen",wikidata,M,Q16439405,way
+"Rue Auguste Charles",wikidata,M,Q17741487,way
+"Rue Auguste Laval",wikidata,M,Q4821060,way
+"Rue Auguste Letellier",wikidata,M,Q13101632,way
+"Rue Auguste Liesch",wikidata,M,Q2871298,way
+"Rue Auguste Lumière",wikidata,M,Q4272245,way
+"Rue Auguste Neyen",wikidata,M,Q13101622,way
+"Rue Auguste Trémont",wikidata,M,Q185717,way
+"Rue Batty Weber",wikidata,M,Q4873291,way
+"Rue Baudouin",wikidata,M,Q152347,way
+"Rue Beaumont",wikidata,M,Q16438884,way
+"Rue Beck",wikidata,M,Q478073,way
+"Rue Bender",wikidata,M,Q881900,way
+"Rue Benjamin Franklin",wikidata,M,Q34969,way
+"Rue Bernard Haal",wikidata,M,Q16439347,way
+"Rue Camille Polfer",wikidata,M,Q2284774,way
+"Rue Camille Wampach",wikidata,M,Q568771,way
+"Rue Carlo Hemmer",wikidata,M,Q16439397,way
+"Rue Caspar Mathias Spoo",wikidata,M,Q1047980,way
+"Rue Charlemagne",wikidata,M,Q3044,way
+"Rue Charles Arendt",wikidata,M,Q13582134,way
+"Rue Charles Bernhoeft",wikidata,M,Q2958550,way
+"Rue Charles Darwin",wikidata,M,Q1035,way
+"Rue Charles Gounod",wikidata,M,Q180278,way
+"Rue Charles IV",wikidata,M,Q155669,way
+"Rue Charles Martel",wikidata,M,Q3301,way
+"Rue Charles Quint",wikidata,M,Q32500,way
+"Rue Charles VI",wikidata,M,Q150665,way
+"Rue Charles de Tornaco",wikidata,M,Q19995282,way
+"Rue Charles-Léon Hammes",wikidata,M,Q5080435,way
+"Rue Chimay",wikidata,M,Q16438884,way
+"Rue Chingiz T. Aitmatov",wikidata,M,Q484292,way
+"Rue Christoph Willibald Gluck",wikidata,M,Q130759,way
+"Rue Christophe Colomb",wikidata,M,Q7322,way
+"Rue Christophe Plantin",wikidata,M,Q380360,way
+"Rue Comte Joseph de Ferraris",wikidata,M,Q78923,way
+"Rue Conrad 1er",wikidata,M,Q749731,way
+"Rue Cyprien Merjai",wikidata,M,Q25583282,way
+"Rue Dante",wikidata,M,Q1067,way
+"Rue Demy Schlechter",wikidata,M,Q13102317,way
+"Rue Dicks",wikidata,M,Q722407,way
+"Rue Dominique Lang",wikidata,M,Q5291146,way
+"Rue Edmond Dune",wikidata,M,Q1285566,way
+"Rue Edward Steichen",wikidata,M,Q313899,way
+"Rue Émile Bian",wikidata,M,Q23948178,way
+"Rue Émile Mayrisch",wikidata,M,Q463694,way
+"Rue Émile Metz",wikidata,M,Q15076254,way
+"Rue Émile Verhaeren",wikidata,M,Q193680,way
+"Rue Érasme",wikidata,M,Q43499,way
+"Rue Ernest Koch",wikidata,M,Q1359007,way
+"Rue Eugène Ruppert",wikidata,M,Q16440051,way
+"Rue Eugène Schaus",wikidata,M,Q328862,way
+"Rue Eugène Wolff",wikidata,M,Q13102514,way
+"Rue Evrard Ketten",wikidata,M,Q13102525,way
+"Rue Evy Friedrich",wikidata,M,Q13102526,way
+"Rue Félix de Blochausen",wikidata,M,Q641102,way
+"Rue Fernand Mertens",wikidata,M,Q4292957,way
+"Rue Fernand d'Huart",wikidata,M,Q13102561,way
+"Rue François Baclesse",wikidata,M,Q17741480,way
+"Rue François Faber",wikidata,M,Q267607,way
+"Rue François Hogenberg",wikidata,M,Q959748,way
+"Rue François Sébastien Tinant",wikidata,M,Q8962719,way
+"Rue Frantz Clément",wikidata,M,Q16439022,way
+"Rue Frantz Seimetz",wikidata,M,Q5492649,way
+"Rue Franz Liszt",wikidata,M,Q41309,way
+"Rue Friedrich Wilhelm Engelhardt",wikidata,M,Q13102674,way
+"Rue Gabriel Lippmann",wikidata,M,Q133232,way
+"Rue Gabriel de Marie",wikidata,M,Q16439773,way
+"Rue General Major Lunsford E. Oliver",wikidata,M,Q6704448,way
+"Rue General Omar N. Bradley",wikidata,M,Q207955,way
+"Rue Genistre",wikidata,M,Q86104000,way
+"Rue George C. Marshall",wikidata,M,Q151414,way
+"Rue Georges Clemenceau",wikidata,M,Q171730,way
+"Rue Gerhard Mercator",wikidata,M,Q6353,way
+"Rue Gioacchino Rossini",wikidata,M,Q9726,way
+"Rue Giselbert",wikidata,M,Q1351773,way
+"Rue Giuseppe Verdi",wikidata,M,Q7317,way
+"Rue Goethe",wikidata,M,Q5879,way
+"Rue Guido Oppenheim",wikidata,M,Q1553641,way
+"Rue Guillaume Capus",wikidata,M,Q13102884,way
+"Rue Guillaume J. Kroll",wikidata,M,Q970241,way
+"Rue Guillaume de Machault",wikidata,M,Q200580,way
+"Rue Gustave Kahnt",wikidata,M,Q5621301,way
+"Rue Heinrich Aigner",wikidata,M,Q90026,way
+"Rue Heinrich Heine",wikidata,M,Q44403,way
+"Rue Henri Dunant",wikidata,M,Q12091,way
+"Rue Henri Frommes",wikidata,M,Q17741504,way
+"Rue Henri Heymanns",wikidata,M,Q19995165,way
+"Rue Henri M. Schnadt",wikidata,M,Q16440121,way
+"Rue Henri Pensis",wikidata,M,Q430203,way
+"Rue Henri Tudor",wikidata,M,Q337200,way
+"Rue Henri VII",wikidata,M,Q152717,way
+"Rue Henri Vannérus",wikidata,M,Q10950360,way
+"Rue Ignace de la Fontaine",wikidata,M,Q725755,way
+"Rue Isaac Newton",wikidata,M,Q935,way
+"Rue Jacques Lamort",wikidata,M,Q13103143,way
+"Rue Jacques Sturm",wikidata,M,Q3160044,way
+"Rue Jacques de Deventer",wikidata,M,Q1677693,way
+"Rue Jean Bertels",wikidata,M,Q445165,way
+"Rue Jean Bertholet",wikidata,M,Q3170746,way
+"Rue Jean Chalop",wikidata,M,Q16460096,way
+"Rue Jean Engling",wikidata,M,Q122699,way
+"Rue Jean Jacoby",wikidata,M,Q168424,way
+"Rue Jean Jaurès",wikidata,M,Q12688,way
+"Rue Jean Mersch-Wittenauer",wikidata,M,Q13103261,way
+"Rue Jean Monnet",wikidata,M,Q159700,way
+"Rue Jean Origer",wikidata,M,Q6171269,way
+"Rue Jean Schaack",wikidata,M,Q13103271,way
+"Rue Jean Schoetter",wikidata,M,Q13103274,way
+"Rue Jean Soupert",wikidata,M,Q6171532,way
+"Rue Jean l'Aveugle",wikidata,M,Q155167,way
+"Rue Jean-Baptiste Esch",wikidata,M,Q13103167,way
+"Rue Jean-Baptiste Fresez",wikidata,M,Q375184,way
+"Rue Jean-Baptiste Gellé",wikidata,M,Q2126315,way
+"Rue Jean-Baptiste Nothomb",wikidata,M,Q446472,way
+"Rue Jean-François Boch",wikidata,M,Q1321804,way
+"Rue Jean-François Gangler",wikidata,M,Q16439251,way
+"Rue Jean-Gaspard de Cicignon",wikidata,M,Q2585876,way
+"Rue Jean-Georges Willmar",wikidata,M,Q3166043,way
+"Rue Jean-Pierre Beckius",wikidata,M,Q13103202,way
+"Rue Jean-Pierre Beicht",wikidata,M,Q16438908,way
+"Rue Jean-Pierre Biermann",wikidata,M,Q16438948,way
+"Rue Jean-Pierre David Heldenstein",wikidata,M,Q13103205,way
+"Rue Jean-Pierre Erpelding",wikidata,M,Q13103210,way
+"Rue Jean-Pierre Huberty",wikidata,M,Q13103220,way
+"Rue Jean-Pierre Kemmer",wikidata,M,Q6169916,way
+"Rue Jean-Pierre Koenig",wikidata,M,Q15846570,way
+"Rue Jean-Pierre Koltz",wikidata,M,Q16439584,way
+"Rue Jean-Pierre Lamboray",wikidata,M,Q1685226,way
+"Rue Jean-Pierre Pier",wikidata,M,Q30609192,way
+"Rue Jean-Pierre Sauvage",wikidata,M,Q1685760,way
+"Rue Johannes Gutenberg",wikidata,M,Q8958,way
+"Rue Johannes Kepler",wikidata,M,Q8963,way
+"Rue Johny Flick",wikidata,M,Q16439205,way
+"Rue Joseph Hackin",wikidata,M,Q3185057,way
+"Rue Joseph Hansen",wikidata,M,Q13103360,way
+"Rue Joseph Heintz",wikidata,M,Q28357231,way
+"Rue Joseph Hess",wikidata,M,Q16439412,way
+"Rue Joseph Junck",wikidata,M,Q16439485,way
+"Rue Joseph Kutter",wikidata,M,Q928638,way
+"Rue Joseph Leydenbach",wikidata,M,Q13103364,way
+"Rue Joseph Massarette",wikidata,M,Q59780066,way
+"Rue Joseph Tockert",wikidata,M,Q16440232,way
+"Rue Joseph Weber",wikidata,M,Q13103378,way
+"Rue Joseph-Alexandre Müller",wikidata,M,Q6280565,way
+"Rue Josy Meyers",wikidata,M,Q13103387,way
+"Rue Jules Fischer",wikidata,M,Q16439197,way
+"Rue Jules Mersch",wikidata,M,Q6305965,way
+"Rue Jules Wilhelm",wikidata,M,Q16440325,way
+"Rue Julien Vesque",wikidata,M,Q5367321,way
+"Rue Lamartine",wikidata,M,Q188697,way
+"Rue Laurent",wikidata,M,Q1384312,way
+"Rue Laurent Menager",wikidata,M,Q543336,way
+"Rue Léandre Lacroix",wikidata,M,Q6710948,way
+"Rue Léon Kauffman",wikidata,M,Q975968,way
+"Rue Léon Metzler",wikidata,M,Q16439825,way
+"Rue Léon Moulin",wikidata,M,Q16439869,way
+"Rue Léon Thyes",wikidata,M,Q13103883,way
+"Rue Leonardo da Vinci",wikidata,M,Q762,way
+"Rue Léopold Hoffmann",wikidata,M,Q1417564,way
+"Rue Léopold Sédar Senghor",wikidata,M,Q154545,way
+"Rue Louis Deny",wikidata,M,Q17741493,way
+"Rue Louis XIV",wikidata,M,Q7742,way
+"Rue Louis de Froment",wikidata,M,Q303698,way
+"Rue Louvigny",wikidata,M,Q13103240,way
+"Rue Luc Housse",wikidata,M,Q6695767,way
+"Rue Lucien Thiel",wikidata,M,Q6697141,way
+"Rue Lucien Wercollier",wikidata,M,Q328942,way
+"Rue Ludwig van Beethoven",wikidata,M,Q255,way
+"Rue Marcel Fischbach",wikidata,M,Q6756106,way
+"Rue Marcel Noppeney",wikidata,M,Q16439910,way
+"Rue Marcel Reuland",wikidata,M,Q13104023,way
+"Rue Maréchal Foch",wikidata,M,Q192615,way
+"Rue Mathias Birthon",wikidata,M,Q13104067,way
+"Rue Mathias Hardt",wikidata,M,Q13104072,way
+"Rue Mathias Kirsch",wikidata,M,Q11028396,way
+"Rue Mathias Tresch",wikidata,M,Q16440239,way
+"Rue Mathieu Lambert Schrobilgen",wikidata,M,Q16440132,way
+"Rue Maurice Barrès",wikidata,M,Q314957,way
+"Rue Melchior Bourg-Gemen",wikidata,M,Q17741483,way
+"Rue Michel Engels",wikidata,M,Q6836379,way
+"Rue Michel Flammang",wikidata,M,Q50939425,way
+"Rue Michel Gehrend",wikidata,M,Q16439259,way
+"Rue Michel Hülsemann",wikidata,M,Q19995171,way
+"Rue Michel Lentz",wikidata,M,Q1094552,way
+"Rue Michel Rodange",wikidata,M,Q1269936,way
+"Rue Michel Welter",wikidata,M,Q2461759,way
+"Rue Mihály Munkácsy",wikidata,M,Q551652,way
+"Rue Nico Klopp",wikidata,M,Q527645,way
+"Rue Nicolas Adames",wikidata,M,Q1529947,way
+"Rue Nicolas Bové",wikidata,M,Q6491480,way
+"Rue Nicolas Braunshausen",wikidata,M,Q13104337,way
+"Rue Nicolas Gonner",wikidata,M,Q13104344,way
+"Rue Nicolas Gredt",wikidata,M,Q16439323,way
+"Rue Nicolas Hein",wikidata,M,Q16439379,way
+"Rue Nicolas Liez",wikidata,M,Q7029723,way
+"Rue Nicolas Majerus",wikidata,M,Q16439756,way
+"Rue Nicolas Mameranus",wikidata,M,Q13653315,way
+"Rue Nicolas Margue",wikidata,M,Q15055575,way
+"Rue Nicolas Martha",wikidata,M,Q16439775,way
+"Rue Nicolas Petit",wikidata,M,Q1986657,way
+"Rue Nicolas Ries",wikidata,M,Q16440022,way
+"Rue Nicolas Rollinger",wikidata,M,Q16463143,way
+"Rue Nicolas Steffen-Pierret",wikidata,M,Q13104355,way
+"Rue Nicolas Welter",wikidata,M,Q637010,way
+"Rue Nicolas van Werveke",wikidata,M,Q1986743,way
+"Rue Nicolas-Ernest Barblé",wikidata,M,Q47515055,way
+"Rue Paul Albrecht",wikidata,M,Q14473458,way
+"Rue Paul Henkes",wikidata,M,Q2060114,way
+"Rue Paul Medinger",wikidata,M,Q16439800,way
+"Rue Paul Noesen",wikidata,M,Q13104528,way
+"Rue Paul Palgen",wikidata,M,Q13104527,way
+"Rue Paul Sontag",wikidata,M,Q47519520,way
+"Rue Paul Wilwertz",wikidata,M,Q1759935,way
+"Rue Pépin le Bref",wikidata,M,Q81212,way
+"Rue Père Dominique Pire",wikidata,M,Q158850,way
+"Rue Philippe II",wikidata,M,Q34417,way
+"Rue Pierre Blanc",wikidata,M,Q13104552,way
+"Rue Pierre Brandenbourger",wikidata,M,Q3246580,way
+"Rue Pierre Federspiel",wikidata,M,Q16439162,way
+"Rue Pierre Hentges",wikidata,M,Q16439403,way
+"Rue Pierre Krier",wikidata,M,Q13104571,way
+"Rue Pierre Maisonnet",wikidata,M,Q13104575,way
+"Rue Pierre Notting",wikidata,M,Q7192385,way
+"Rue Pierre d'Aspelt",wikidata,M,Q66386,way
+"Rue Pierre de Coubertin",wikidata,M,Q82984,way
+"Rue Pierre-Éloi Schoué",wikidata,M,Q13104554,way
+"Rue Pierre-Joseph Redouté",wikidata,M,Q551638,way
+"Rue Poutty Stein",wikidata,M,Q13104682,way
+"Rue Raoul Follereau",wikidata,M,Q2706190,way
+"Rue Raymond Poincaré",wikidata,M,Q191974,way
+"Rue Richard Coudenhove-Kalergi",wikidata,M,Q78525,way
+"Rue Richard Wagner",wikidata,M,Q1511,way
+"Rue Robert Bruch",wikidata,M,Q13104816,way
+"Rue Robert Stumper",wikidata,M,Q13104838,way
+"Rue Saint-Fiacre",wikidata,M,Q953927,way
+"Rue Saint-Gengoul",wikidata,M,Q745899,way
+"Rue Saint-Willibrord",wikidata,M,Q160714,way
+"Rue Sidney Gilchrist Thomas",wikidata,M,Q1353340,way
+"Rue Sigefroi",wikidata,M,Q469856,way
+"Rue Siggy vu Lëtzebuerg",wikidata,M,Q13103820,way
+"Rue Sigismond",wikidata,M,Q57124,way
+"Rue Sosthène Weis",wikidata,M,Q7563926,way
+"Rue Théodore Eberhard",wikidata,M,Q13105224,way
+"Rue Théophile Funck-Brentano",wikidata,M,Q2253927,way
+"Rue Thomas Byrne",wikidata,M,Q84498711,way
+"Rue Tony Bourg",wikidata,M,Q16438972,way
+"Rue Tony Dutreux",wikidata,M,Q13105267,way
+"Rue Tony Neuman",wikidata,M,Q13105262,way
+"Rue Tony Rollman",wikidata,M,Q13105265,way
+"Rue Václav Havel",wikidata,M,Q36233,way
+"Rue Vauban",wikidata,M,Q192839,way
+"Rue Victor Ferrant",wikidata,M,Q13105365,way
+"Rue Walram",wikidata,M,Q83660,way
+"Rue Walter Colling",wikidata,M,Q16439027,way
+"Rue Wenceslas 1er",wikidata,M,Q658785,way
+"Rue William Turner",wikidata,M,Q159758,way
+"Rue Willy Goergen",wikidata,M,Q16439304,way
+"Rue Wolfgang Amadeus Mozart",wikidata,M,Q254,way
+"Rue Woodrow Wilson",wikidata,M,Q34296,way
+"Rue Wurth-Paquet",wikidata,M,Q1956419,way
+"Rue Xavier de Feller",wikidata,M,Q1648711,way
+"Rue du Père Jacques Brocquart",wikidata,M,Q16438985,way
+"Square Aloyse Meyer",wikidata,M,Q13101479,way
+"Square Édouard André",wikidata,M,Q274317,way
+"Square Jan Palach",wikidata,M,Q192893,way
+"Tunnel Albert Bousser",wikidata,M,Q1741542,way
+"Tunnel René Konen",wikidata,M,Q7313735,way
+"Val Saint-André",wikidata,M,Q43399,way
