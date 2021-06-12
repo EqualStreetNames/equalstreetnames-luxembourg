@@ -21,6 +21,7 @@ name,source,gender,wikidata,type
 "Rue Fanny Leclerc",wikidata,F,Q96100366,way
 "Rue Hildegard von Bingen",wikidata,F,Q70991,way
 "Rue Irmine",wikidata,F,Q289060,way
+"Rue Joséphine Jacquemart-Jaans",wikidata,F,Q51954657,way
 "Rue Lise Meitner",wikidata,F,Q56189,way
 "Rue Lou Koster",wikidata,F,Q6685586,way
 "Rue Louise Michel",wikidata,F,Q216092,way
@@ -323,6 +324,7 @@ name,source,gender,wikidata,type
 "Rue Michel Hülsemann",wikidata,M,Q19995171,way
 "Rue Michel Lentz",wikidata,M,Q1094552,way
 "Rue Michel Rodange",wikidata,M,Q1269936,way
+"Rue Michel Théato",wikidata,M,Q388974,way
 "Rue Michel Welter",wikidata,M,Q2461759,way
 "Rue Mihály Munkácsy",wikidata,M,Q551652,way
 "Rue Nico Klopp",wikidata,M,Q527645,way
