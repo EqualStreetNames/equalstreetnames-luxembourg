@@ -1,9 +1,9 @@
 name: Update data
 
 on:
-  # Run every Saturday at 3:00 UTC
+  # Run every month on the 1st at 20:00 UTC
   schedule:
-    - cron: "0 3 * * 6"
+    - cron: "0 20 1 * *"
   workflow_dispatch:
   push:
     paths:
