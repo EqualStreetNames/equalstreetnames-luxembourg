@@ -89,6 +89,7 @@ name,source,gender,wikidata,type
 "Passerelle cyclable pont Adolphe",wikidata,M,Q57302,way
 "Place Abbé Prosper-Jean-Charles Mullendorff",wikidata,M,Q13102090,way
 "Place Auguste Laurent",wikidata,M,Q766718,way
+"Place Émile Hamilius",wikidata,M,Q285965,way
 "Place François-Joseph Dargent",wikidata,M,Q16439047,way
 "Place Guillaume II",wikidata,M,Q154287,relation+way
 "Place Jean Heinisch",wikidata,M,Q24287738,way
@@ -200,6 +201,7 @@ name,source,gender,wikidata,type
 "Rue François Baclesse",wikidata,M,Q17741480,way
 "Rue François Faber",wikidata,M,Q267607,way
 "Rue François Hogenberg",wikidata,M,Q959748,way
+"Rue François Laurent",wikidata,M,Q1384312,way
 "Rue François Sébastien Tinant",wikidata,M,Q8962719,way
 "Rue Frantz Clément",wikidata,M,Q16439022,way
 "Rue Frantz Seimetz",wikidata,M,Q5492649,way
@@ -292,7 +294,6 @@ name,source,gender,wikidata,type
 "Rue Jules Wilhelm",wikidata,M,Q16440325,way
 "Rue Julien Vesque",wikidata,M,Q5367321,way
 "Rue Lamartine",wikidata,M,Q188697,way
-"Rue Laurent",wikidata,M,Q1384312,way
 "Rue Laurent Menager",wikidata,M,Q543336,way
 "Rue Léandre Lacroix",wikidata,M,Q6710948,way
 "Rue Léon Kauffman",wikidata,M,Q975968,way
@@ -307,7 +308,6 @@ name,source,gender,wikidata,type
 "Rue Louis de Froment",wikidata,M,Q303698,way
 "Rue Louvigny",wikidata,M,Q13103240,way
 "Rue Luc Housse",wikidata,M,Q6695767,way
-"Rue Lucien Thiel",wikidata,M,Q6697141,way
 "Rue Lucien Wercollier",wikidata,M,Q328942,way
 "Rue Ludwig van Beethoven",wikidata,M,Q255,way
 "Rue Marcel Fischbach",wikidata,M,Q6756106,way
