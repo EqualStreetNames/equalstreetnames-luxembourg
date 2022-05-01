@@ -1,5 +1,6 @@
 name,source,gender,wikidata,type
 "Avenue des Archiducs",wikidata,+,Q158256;Q311452,way
+"Rue Marie et Joseph Hackin",wikidata,+,Q3185057;Q3292570,way
 "Rue Marie et Pierre Curie",wikidata,+,Q7186;Q37463,way
 "Rue Nina et Julien Lefèvre",wikidata,+,Q16439671;Q16439483,way
 "Avenue Amélie",wikidata,F,Q452972,way
@@ -277,7 +278,6 @@ name,source,gender,wikidata,type
 "Rue Johannes Kepler",wikidata,M,Q8963,way
 "Rue John L. Mac Adam",wikidata,M,Q437708,way
 "Rue Johny Flick",wikidata,M,Q16439205,way
-"Rue Joseph Hackin",wikidata,M,Q3185057,way
 "Rue Joseph Hansen",wikidata,M,Q13103360,way
 "Rue Joseph Heintz",wikidata,M,Q28357231,way
 "Rue Joseph Hess",wikidata,M,Q16439412,way
