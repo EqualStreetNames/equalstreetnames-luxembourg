@@ -3,6 +3,7 @@ name,source,gender,wikidata,type
 "Avenue de la Gare",wikidata,,Q801140;Q2451720,way
 "Avenue de la Porte-Neuve",wikidata,,Q16764299,way
 "Boulevard de Kockelscheuer",wikidata,,Q1954674,way
+"Boulevard de Kyiv",wikidata,,Q1899,way
 "Boulevard de Verdun",wikidata,,Q154748,way
 "Boulevard de l'Alzette",wikidata,,Q450722,way
 "Boulevard de la Foire",wikidata,,Q350787,way
@@ -15,6 +16,7 @@ Marché-aux-Poissons,wikidata,,Q1420366,way
 "Montée Saint-Crépin",wikidata,,Q1140213,way
 "Place de Bruxelles",wikidata,,Q239,way
 "Place de Clairefontaine",wikidata,,Q2138213,way
+"Place de Durbuy",wikidata,,Q497697,way
 "Place de France",wikidata,,Q142,way
 "Place de Liège",wikidata,,Q3992,relation+way
 "Place de Metz",wikidata,,Q22690,way
@@ -145,7 +147,6 @@ Bisserweg,,,,way
 "Boulevard Kaltreis",,,,way
 "Boulevard Nelson Mandela",,,,way
 "Boulevard d'Avranches",,,,way
-"Boulevard de Kyiv",,,,way
 "Boulevard de Merl",,,,way
 "Boulevard de la Fraternité",,,,way
 "Boulevard du Brill",,,,way
@@ -219,7 +220,6 @@ Petzerhiel,,,,way
 "Place Sauerwiss",,,,way
 "Place Wallis",,,,way
 "Place d'Armes",,,,relation+way
-"Place de Durbuy",,,,way
 "Place de Gand",,,,way
 "Place de Roedgen",,,,way
 "Place de l'Étoile",,,,way
