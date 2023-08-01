@@ -19,12 +19,16 @@ name,source,gender,wikidata,type
 "Rue Béatrix de Bourbon",wikidata,F,Q269586,way
 "Rue Caroline Baldauff-Rothermel",wikidata,F,Q87613086,way
 "Rue Charlotte Engels",wikidata,F,Q16439132,way
+"Rue Docteur Marie-Paule Molitor-Peffer",wikidata,F,Q13104043,way
 "Rue Ermesinde",wikidata,F,Q266160,way
 "Rue Fanny Leclerc",wikidata,F,Q96100366,way
+"Rue Helen Buchholtz",wikidata,F,Q2363383,way
 "Rue Hildegard von Bingen",wikidata,F,Q70991,way
 "Rue Irmine",wikidata,F,Q289060,way
 "Rue Joséphine Jacquemart-Jaans",wikidata,F,Q51954657,way
+"Rue Lily Unden",wikidata,F,Q3240959,way
 "Rue Lise Meitner",wikidata,F,Q56189,way
+"Rue Lise Rischard-Meyer",wikidata,F,Q19995237,way
 "Rue Lou Koster",wikidata,F,Q6685586,way
 "Rue Louise Michel",wikidata,F,Q216092,way
 "Rue Marguerite Mongenast-Servais",wikidata,F,Q16439863,way
@@ -44,6 +48,7 @@ name,source,gender,wikidata,type
 "Rue Sainte-Catherine",wikidata,F,Q179718,way
 "Rue Sainte-Thérèse-d'Ávila",wikidata,F,Q174880,way
 "Rue Sainte-Zithe",wikidata,F,Q744884,way
+"Rue Simone Veil",wikidata,F,Q298180,way
 "Rue Simone de Beauvoir",wikidata,F,Q7197,way
 "Rue Yolande",wikidata,F,Q328936,way
 "Rue de la Reine",wikidata,F,Q160800,way
@@ -151,6 +156,7 @@ name,source,gender,wikidata,type
 "Rue Auguste Lumière",wikidata,M,Q4272245,way
 "Rue Auguste Neyen",wikidata,M,Q13101622,way
 "Rue Auguste Trémont",wikidata,M,Q185717,way
+"Rue Ausone",wikidata,M,Q234593,way
 "Rue Batty Weber",wikidata,M,Q4873291,way
 "Rue Baudouin",wikidata,M,Q152347,way
 "Rue Beaumont",wikidata,M,Q16438884,way
