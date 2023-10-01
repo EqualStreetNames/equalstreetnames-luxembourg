@@ -19,7 +19,7 @@ Marché-aux-Poissons,wikidata,,Q1420366,way
 "Place de Durbuy",wikidata,,Q497697,way
 "Place de France",wikidata,,Q142,way
 "Place de Liège",wikidata,,Q3992,relation+way
-"Place de Metz",wikidata,,Q22690,way
+"Place de Metz",wikidata,,Q22690,relation+way
 "Place de Nancy",wikidata,,Q40898,way
 "Place de Paris",wikidata,,Q90,way
 "Place de Strasbourg",wikidata,,Q6602,way
@@ -166,7 +166,9 @@ Crispinusfiels,,,,way
 "Desserte Schuman",,,,way
 "Échangeur de Kirchberg",,,,way
 "Échangeur de Merl",,,,way
+Eicherfeld,,,,way
 "Fond Saint-Martin",,,,way
+G'Röhans,,,,way
 "Galerie Grand'Rue - Beaumont",,,,way
 "Galerie Mercure",,,,way
 "Grand Théâtre de Luxembourg",,,,way
@@ -196,6 +198,7 @@ Mühlenweg,,,,way
 "Nouvelle route d'Esch",,,,way
 "Op der Heed",,,,way
 "Op der Schmëdd",,,,way
+PC27,,,,way
 Paerdswee,,,,way
 "Parcours Josy Mersch",,,,way
 "Park Dräi Eechelen",,,,way
