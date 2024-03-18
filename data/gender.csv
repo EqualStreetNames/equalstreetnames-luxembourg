@@ -114,8 +114,7 @@ name,source,gender,wikidata,type
 "Rond-Point Robert Schaffner",wikidata,M,Q7349611,way
 "Rond-Point Robert Schuman",wikidata,M,Q15981,way
 "Rond-Point Serra",wikidata,M,Q321245,way
-"Rue Abbé François Lascombes",wikidata,M,Q16439655,way
-"Rue Abbé Lemire",wikidata,M,Q3085048,way
+"Rue Abbé François Lascombes",wikidata,M,Q123482027,way
 "Rue Adolphe",wikidata,M,Q57302,way
 "Rue Adolphe Fischer",wikidata,M,Q24259441,way
 "Rue Albert 1er",wikidata,M,Q55008046,way
@@ -171,6 +170,7 @@ name,source,gender,wikidata,type
 "Rue Charlemagne",wikidata,M,Q3044,way
 "Rue Charles Arendt",wikidata,M,Q13582134,way
 "Rue Charles Bernhoeft",wikidata,M,Q2958550,way
+"Rue Charles Calmette",wikidata,M,Q437983,way
 "Rue Charles Darwin",wikidata,M,Q1035,way
 "Rue Charles Gounod",wikidata,M,Q180278,way
 "Rue Charles IV",wikidata,M,Q155669,way
@@ -298,12 +298,12 @@ name,source,gender,wikidata,type
 "Rue Joseph-Alexandre Müller",wikidata,M,Q6280565,way
 "Rue Josy Meyers",wikidata,M,Q13103387,way
 "Rue Jules Fischer",wikidata,M,Q16439197,way
-"Rue Jules Mersch",wikidata,M,Q6305965,way
 "Rue Jules Wilhelm",wikidata,M,Q16440325,way
 "Rue Julien Vesque",wikidata,M,Q5367321,way
 "Rue Lamartine",wikidata,M,Q188697,way
 "Rue Laurent Menager",wikidata,M,Q543336,way
 "Rue Léandre Lacroix",wikidata,M,Q6710948,way
+"Rue Lemire",wikidata,M,Q3085048,way
 "Rue Léon Kauffman",wikidata,M,Q975968,way
 "Rue Léon Metzler",wikidata,M,Q16439825,way
 "Rue Léon Moulin",wikidata,M,Q16439869,way
@@ -371,6 +371,7 @@ name,source,gender,wikidata,type
 "Rue Pierre Brandenbourger",wikidata,M,Q3246580,way
 "Rue Pierre Federspiel",wikidata,M,Q16439162,way
 "Rue Pierre Hentges",wikidata,M,Q16439403,way
+"Rue Pierre Kohner",wikidata,M,Q105195974,way
 "Rue Pierre Krier",wikidata,M,Q13104571,way
 "Rue Pierre Maisonnet",wikidata,M,Q13104575,way
 "Rue Pierre Medawar",wikidata,M,Q90282335,way

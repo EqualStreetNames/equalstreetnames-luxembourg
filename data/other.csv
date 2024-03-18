@@ -18,15 +18,13 @@ Marché-aux-Poissons,wikidata,,Q1420366,way
 "Place de Clairefontaine",wikidata,,Q2138213,way
 "Place de Durbuy",wikidata,,Q497697,way
 "Place de France",wikidata,,Q142,way
-"Place de Liège",wikidata,,Q3992,relation+way
+"Place de Liège",wikidata,,Q3992,relation
 "Place de Metz",wikidata,,Q22690,relation+way
-"Place de Nancy",wikidata,,Q40898,way
 "Place de Paris",wikidata,,Q90,way
 "Place de Strasbourg",wikidata,,Q6602,way
 "Place de l'Europe",wikidata,,Q46,relation+way
 "Place des Bains",wikidata,,Q76452931,way
 "Place des Martyrs",wikidata,,Q471779,way
-"Place des Pays-Bas",wikidata,,Q55,way
 "Place du Six Juin 1937",wikidata,,Q4393792,way
 "Route d'Arlon",wikidata,,Q675960,way
 "Route d'Echternach",wikidata,,Q204317,way
@@ -80,6 +78,7 @@ Marché-aux-Poissons,wikidata,,Q1420366,way
 "Rue des Alouettes",wikidata,,Q2839337,way
 "Rue des Anémones",wikidata,,Q158286,way
 "Rue des Ardennes",wikidata,,Q151985,way
+"Rue des Arquebusiers",wikidata,,Q55,way
 "Rue des Aubépines",wikidata,,Q132557,way
 "Rue des Bleuets",wikidata,,Q156921,way
 "Rue des Celtes",wikidata,,Q35966,way
@@ -177,7 +176,6 @@ Hiirsekrëpp,,,,way
 Hourebréck,,,,way
 "Îlot gastronomique",,,,way
 "Jonction Grunewald",,,,way
-Kiem,,,,way
 Kohlenberg,,,,way
 Kosakestee,,,,way
 Langefeld,,,,way
@@ -207,6 +205,7 @@ Paerdswee,,,,way
 "Parvis de la Gare",,,,way
 "Passage Gëlle Klack",,,,way
 "Passage Louvigny",,,,way
+"Passage Marc Olinger",,,,way
 "Passage de l'Hôtel de Ville",,,,way
 Passerelle,,,,way
 "Passerelle Mudam",,,,way
@@ -223,12 +222,13 @@ Petzerhiel,,,,way
 "Place Wallis",,,,way
 "Place d'Armes",,,,relation+way
 "Place de Gand",,,,way
+"Place de Nancy",,,,way
 "Place de Roedgen",,,,way
 "Place de l'Étoile",,,,way
 "Place de la Gare",,,,way
+"Place des Pays-Bas",,,,way
 "Place des Rotondes",,,,relation
 "Place du Parc",,,,way
-"Place du Théatre",,,,way
 "Place du Théâtre",,,,relation+way
 "Plateau Altmünster",,,,way
 "Plateau du Rham",,,,way
@@ -254,7 +254,6 @@ Reckenthal,,,,way
 "Rue Belle-Vue",,,,way
 "Rue Bischoff",,,,way
 "Rue Cents",,,,way
-"Rue Charles Calmette",,,,way
 "Rue Docteur Nicolas Clasen",,,,way
 "Rue Édouard Grenier",,,,way
 "Rue Émile Duployé",,,,way
@@ -277,6 +276,7 @@ Reckenthal,,,,way
 "Rue Jean-Pierre Probst",,,,way
 "Rue Jean-Pierre Thoma",,,,way
 "Rue Jeanne Rouff",,,,way
+"Rue Jules Mersch",wikidata,,,way
 "Rue Kalchesbruck",,,,way
 "Rue Large",,,,way
 "Rue Léon Hengen",,,,way
@@ -290,7 +290,6 @@ Reckenthal,,,,way
 "Rue Nicolaus Copernicus",,,,way
 "Rue Paul Séjourné",,,,way
 "Rue Perle Mesta",,,,way
-"Rue Pierre Kohner",,,,way
 "Rue Pierre Thinnes",,,,way
 "Rue Plaetis",,,,way
 "Rue René Weimerskirch",,,,way
@@ -340,7 +339,6 @@ Reckenthal,,,,way
 "Rue de Reims",,,,way
 "Rue de Rochefort",,,,way
 "Rue de Rollingergrund",,,,way
-"Rue de Saint - Vith",,,,way
 "Rue de Saint-Hubert",,,,way
 "Rue de Saint-Vith",,,,way
 "Rue de Salm",,,,way
@@ -375,7 +373,6 @@ Reckenthal,,,,way
 "Rue de la Station",,,,way
 "Rue de la Tour Jacob",,,,way
 "Rue de la Vallée",,,,way
-"Rue des Arquebusiers",,,,way
 "Rue des Artisans",,,,way
 "Rue des Bains",,,,way
 "Rue des Capucins",,,,way
@@ -441,7 +438,6 @@ Stierchen,,,,way
 Tawioun,,,,way
 "Tommys Bruch",,,,way
 Traufelsbierg,,,,way
-"Tunnel de Cents",,,,way
 "Um Sinaki",,,,way
 "Val Fleuri",,,,way
 "Val Sainte-Croix",,,,way
