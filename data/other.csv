@@ -12,7 +12,7 @@ name,source,gender,wikidata,type
 "Côte d'Eich",wikidata,,Q2451733,way
 Ierzewee,wikidata,,Q4100013,way
 Knäppchen,wikidata,,Q54050,way
-Marché-aux-Poissons,wikidata,,Q1420366,way
+Marché-aux-Poissons,wikidata,,Q1420366,relation
 "Montée Saint-Crépin",wikidata,,Q1140213,way
 "Place de Bruxelles",wikidata,,Q239,way
 "Place de Clairefontaine",wikidata,,Q2138213,way
@@ -197,6 +197,7 @@ Mühlenweg,,,,way
 "Nouvelle route d'Esch",,,,way
 "Op der Heed",,,,way
 "Op der Schmëdd",,,,way
+PC103,,,,way
 PC27,,,,way
 Paerdswee,,,,way
 "Parcours Josy Mersch",,,,way
@@ -445,4 +446,4 @@ Traufelsbierg,,,,way
 "Val des Bons-Malades",,,,way
 "Val du Scheid",,,,way
 "Zone industrielle Grasbësch",,,,way
-"pôle d'échange Howald",,,,way
+"rue Dernier Sol",,,,way

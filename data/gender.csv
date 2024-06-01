@@ -390,6 +390,7 @@ name,source,gender,wikidata,type
 "Rue Robert Stumper",wikidata,M,Q13104838,way
 "Rue Saint-Fiacre",wikidata,M,Q953927,way
 "Rue Saint-Gengoul",wikidata,M,Q745899,way
+"Rue Saint-Quirin",wikidata,M,Q688884,way
 "Rue Saint-Willibrord",wikidata,M,Q160714,way
 "Rue Schetzel",wikidata,M,Q13104950,way
 "Rue Schiller",wikidata,M,Q22670,way
@@ -418,6 +419,7 @@ name,source,gender,wikidata,type
 "Rue Wurth-Paquet",wikidata,M,Q1956419,way
 "Rue Xavier de Feller",wikidata,M,Q1648711,way
 "Rue du Père Jacques Brocquart",wikidata,M,Q16438985,way
+Sichebréck,wikidata,M,Q543336,way
 "Square Aloyse Meyer",wikidata,M,Q13101479,way
 "Square Édouard André",wikidata,M,Q274317,way
 "Square Jan Palach",wikidata,M,Q192893,way
