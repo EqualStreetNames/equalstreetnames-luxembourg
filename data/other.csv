@@ -12,18 +12,18 @@ name,source,gender,wikidata,type
 "Côte d'Eich",wikidata,,Q2451733,way
 Ierzewee,wikidata,,Q4100013,way
 Knäppchen,wikidata,,Q54050,way
-Marché-aux-Poissons,wikidata,,Q1420366,relation
+Marché-aux-Poissons,wikidata,,Q1420366,relation+way
 "Montée Saint-Crépin",wikidata,,Q1140213,way
 "Place de Bruxelles",wikidata,,Q239,way
 "Place de Clairefontaine",wikidata,,Q2138213,way
 "Place de Durbuy",wikidata,,Q497697,way
 "Place de France",wikidata,,Q142,way
-"Place de Liège",wikidata,,Q3992,relation
+"Place de Liège",wikidata,,Q3992,way
 "Place de Metz",wikidata,,Q22690,relation+way
-"Place de Paris",wikidata,,Q90,way
+"Place de Paris",wikidata,,Q90,relation+way
 "Place de Strasbourg",wikidata,,Q6602,way
 "Place de l'Europe",wikidata,,Q46,relation+way
-"Place de la Constitution",wikidata,,Q2671014,way
+"Place de la Constitution",wikidata,,Q2671014,relation+way
 "Place des Bains",wikidata,,Q76452931,way
 "Place des Martyrs",wikidata,,Q471779,way
 "Place du Six Juin 1937",wikidata,,Q4393792,way
@@ -40,7 +40,7 @@ Marché-aux-Poissons,wikidata,,Q1420366,relation
 "Rue Renert",wikidata,,Q505194,way
 "Rue Wiltheim",wikidata,,Q106914929,way
 "Rue d'Alsace",wikidata,,Q1142,way
-"Rue d'Anvers",wikidata,,Q12892,way
+"Rue d'Anvers",wikidata,,Q12892;Q90,way
 "Rue d'Oradour",wikidata,,Q836897,way
 "Rue d'Orange",wikidata,,Q2281221,way
 "Rue d'Ostende",wikidata,,Q12996,way
@@ -169,7 +169,7 @@ Crispinusfiels,,,,way
 Eicherfeld,,,,way
 "Fond Saint-Martin",,,,way
 G'Röhans,,,,way
-"Galerie Grand'Rue - Beaumont",,,,way
+"Galerie Beaumont",,,,way
 "Galerie Mercure",,,,way
 "Grand Théâtre de Luxembourg",,,,way
 Grand-Rue,,,,way
@@ -445,5 +445,4 @@ Traufelsbierg,,,,way
 "Val de Hamm",,,,way
 "Val des Bons-Malades",,,,way
 "Val du Scheid",,,,way
-"Zone industrielle Grasbësch",,,,way
-"rue Dernier Sol",,,,way
+"Zone Industrielle Grasbësch",,,,way
