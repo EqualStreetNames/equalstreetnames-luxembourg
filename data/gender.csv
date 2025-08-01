@@ -170,7 +170,6 @@ name,source,gender,wikidata,type
 "Rue Charlemagne",wikidata,M,Q3044,way
 "Rue Charles Arendt",wikidata,M,Q13582134,way
 "Rue Charles Bernhoeft",wikidata,M,Q2958550,way
-"Rue Charles Calmette",wikidata,M,Q437983,way
 "Rue Charles Darwin",wikidata,M,Q1035,way
 "Rue Charles Gounod",wikidata,M,Q180278,way
 "Rue Charles IV",wikidata,M,Q155669,way
@@ -305,6 +304,7 @@ name,source,gender,wikidata,type
 "Rue Lamartine",wikidata,M,Q188697,way
 "Rue Laurent Menager",wikidata,M,Q543336,way
 "Rue Léandre Lacroix",wikidata,M,Q6710948,way
+"Rue Léon Charles Albert Calmette",wikidata,M,Q437983,way
 "Rue Léon Kauffman",wikidata,M,Q975968,way
 "Rue Léon Metzler",wikidata,M,Q16439825,way
 "Rue Léon Moulin",wikidata,M,Q16439869,way
