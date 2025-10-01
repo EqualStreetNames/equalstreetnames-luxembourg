@@ -3,6 +3,124 @@ name,source,gender,wikidata,type
 "Rue Marie et Joseph Hackin",wikidata,+,Q3185057;Q3292570,way
 "Rue Marie et Pierre Curie",wikidata,+,Q7186;Q37463,way
 "Rue Nina et Julien Lefèvre",wikidata,+,Q16439671;Q16439483,way
+"Avenue de la Faïencerie",wikidata,-,Q705042,way
+"Avenue de la Gare",wikidata,-,Q801140;Q2451720,way
+"Avenue de la Porte-Neuve",wikidata,-,Q16764299,way
+"Boulevard de Kockelscheuer",wikidata,-,Q1954674,way
+"Boulevard de Kyiv",wikidata,-,Q1899,way
+"Boulevard de Verdun",wikidata,-,Q154748,way
+"Boulevard de l'Alzette",wikidata,-,Q450722,way
+"Boulevard de la Foire",wikidata,-,Q350787,way
+"Boulevard de la Pétrusse",wikidata,-,Q950660,way
+"Circuit de la Foire Internationale",wikidata,-,Q3268070,way
+"Côte d'Eich",wikidata,-,Q2451733,way
+Ierzewee,wikidata,-,Q4100013,way
+Knäppchen,wikidata,-,Q54050,way
+Marché-aux-Poissons,wikidata,-,Q1420366,relation+way
+"Montée Saint-Crépin",wikidata,-,Q1140213,way
+"Place de Bruxelles",wikidata,-,Q239,way
+"Place de Clairefontaine",wikidata,-,Q2138213,way
+"Place de Durbuy",wikidata,-,Q497697,way
+"Place de France",wikidata,-,Q142,way
+"Place de Liège",wikidata,-,Q3992,way
+"Place de Metz",wikidata,-,Q22690,relation+way
+"Place de Paris",wikidata,-,Q90,relation+way
+"Place de Strasbourg",wikidata,-,Q6602,way
+"Place de l'Europe",wikidata,-,Q46,relation+way
+"Place de la Constitution",wikidata,-,Q2671014,relation+way
+"Place des Bains",wikidata,-,Q76452931,way
+"Place des Martyrs",wikidata,-,Q471779,way
+"Place du Six Juin 1937",wikidata,-,Q4393792,way
+"Route d'Arlon",wikidata,-,Q675960,way
+"Route d'Echternach",wikidata,-,Q204317,way
+"Route d'Esch",wikidata,-,Q16010,way
+"Route de Longwy",wikidata,-,Q318535,way
+"Route de Remich",wikidata,-,Q734284,way
+"Route de Thionville",wikidata,-,Q22640,way
+"Rue Eecherschmelz",wikidata,-,Q13102417,way
+"Rue Malakoff",wikidata,-,Q16764125,way
+"Rue Mercier",wikidata,-,Q980908,way
+"Rue Mil Neuf Cents",wikidata,-,Q2034,way
+"Rue Renert",wikidata,-,Q505194,way
+"Rue Wiltheim",wikidata,-,Q106914929,way
+"Rue d'Alsace",wikidata,-,Q1142,way
+"Rue d'Anvers",wikidata,-,Q12892;Q90,way
+"Rue d'Oradour",wikidata,-,Q836897,way
+"Rue d'Orange",wikidata,-,Q2281221,way
+"Rue d'Ostende",wikidata,-,Q12996,way
+"Rue de Bastogne",wikidata,-,Q34021,way
+"Rue de Bonnevoie",wikidata,-,Q892805,way
+"Rue de Bragance",wikidata,-,Q853342,way
+"Rue de Bridel",wikidata,-,Q2584585,way
+"Rue de Chicago",wikidata,-,Q1297,way
+"Rue de Chiny",wikidata,-,Q713170,way
+"Rue de Crécy",wikidata,-,Q27759,way
+"Rue de Dormans",wikidata,-,Q833380,way
+"Rue de Gibraltar",wikidata,-,Q1410,way
+"Rue de Halanzy",wikidata,-,Q2340066,way
+"Rue de Hesperange",wikidata,-,Q24283574,way
+"Rue de Hollerich",wikidata,-,Q25583424,way
+"Rue de Houffalize",wikidata,-,Q650274,way
+"Rue de Kevelaer",wikidata,-,Q243526,way
+"Rue de Kopstal",wikidata,-,Q20969435,way
+"Rue de Malines",wikidata,-,Q100020,way
+"Rue de Mondorf",wikidata,-,Q3917128,way
+"Rue de Neudorf",wikidata,-,Q13104312,way
+"Rue de Prague",wikidata,-,Q1085,way
+"Rue de Roeser",wikidata,-,Q3917087,way
+"Rue de Strasbourg",wikidata,-,Q6602,way
+"Rue de Vianden",wikidata,-,Q20969217,way
+"Rue de l'Abattoir",wikidata,-,Q61123299,way
+"Rue de l'Ancien Athénée",wikidata,-,Q545334,way
+"Rue de l'Avenir",wikidata,-,Q344,way
+"Rue de l'Ordre de la Couronne de Chêne",wikidata,-,Q94093,way
+"Rue de la Déportation",wikidata,-,Q13175718,way
+"Rue de la Forge",wikidata,-,Q13102417,way
+"Rue de la Francophonie",wikidata,-,Q1003588,way
+"Rue de la Lavande",wikidata,-,Q171892,way
+"Rue de la Poste",wikidata,-,Q1570910,way
+"Rue de la Toison d'Or",wikidata,-,Q465774,way
+"Rue des Alouettes",wikidata,-,Q2839337,way
+"Rue des Anémones",wikidata,-,Q158286,way
+"Rue des Ardennes",wikidata,-,Q151985,way
+"Rue des Arquebusiers",wikidata,-,Q55,way
+"Rue des Aubépines",wikidata,-,Q132557,way
+"Rue des Bleuets",wikidata,-,Q156921,way
+"Rue des Celtes",wikidata,-,Q35966,way
+"Rue des Cerisiers",wikidata,-,Q2946681,way
+"Rue des Chênes",wikidata,-,Q12004,way
+"Rue des Coquelicots",wikidata,-,Q130201,way
+"Rue des Dahlias",wikidata,-,Q130918,way
+"Rue des Églantiers",wikidata,-,Q3580164,way
+"Rue des États-Unis",wikidata,-,Q30,way
+"Rue des Frênes",wikidata,-,Q128887,way
+"Rue des Gaulois",wikidata,-,Q273854,way
+"Rue des Genêts",wikidata,-,Q60444375,way
+"Rue des Glacis",wikidata,-,Q948008,way
+"Rue des Légionnaires",wikidata,-,Q188559,way
+"Rue des Lilas",wikidata,-,Q157449,way
+"Rue des Marguerites",wikidata,-,Q2917510,way
+"Rue des Muguets",wikidata,-,Q101711,way
+"Rue des Peupliers",wikidata,-,Q25356,way
+"Rue des Pommiers",wikidata,-,Q104819,way
+"Rue des Primevères",wikidata,-,Q158974,way
+"Rue des Prunelles",wikidata,-,Q3408609,way
+"Rue des Pruniers",wikidata,-,Q44120,way
+"Rue des Romains",wikidata,-,Q1747689,way
+"Rue des Roses",wikidata,-,Q64140922,way
+"Rue des Trévires",wikidata,-,Q322168,way
+"Rue du Charly",wikidata,-,Q2245766,way
+"Rue du Fort Dumoulin",wikidata,-,Q13102628,way
+"Rue du Fort Niedergrünewald",wikidata,-,Q13102621,way
+"Rue du Fort Olisy",wikidata,-,Q13102620,way
+"Rue du Fort Rheinsheim",wikidata,-,Q25583742,way
+"Rue du Fort Thüngen",wikidata,-,Q585990,way
+"Rue du Fort Wallis",wikidata,-,Q84089625,way
+"Rue du Grünewald",wikidata,-,Q1513403,way
+"Rue du Marché-aux-Herbes",wikidata,-,Q6436459,way
+"Rue du Saint-Esprit",wikidata,-,Q37302,way
+"Rue du Soleil",wikidata,-,Q525,way
+"Square de New York",wikidata,-,Q1384,way
 "Avenue Amélie",wikidata,F,Q452972,way
 "Avenue Marie-Thérèse",wikidata,F,Q131706,way
 "Boulevard Grande-Duchesse Charlotte",wikidata,F,Q155608,way
