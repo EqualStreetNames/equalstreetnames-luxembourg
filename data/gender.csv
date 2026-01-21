@@ -6,6 +6,8 @@ name,source,gender,wikidata,type
 "Avenue de la Faïencerie",wikidata,-,Q705042,way
 "Avenue de la Gare",wikidata,-,Q801140;Q2451720,way
 "Avenue de la Porte-Neuve",wikidata,-,Q16764299,way
+"Avenue du 10 septembre",wikidata,-,Q69276484,way
+"Avenue du dix septembre",wikidata,-,Q69276484,way
 "Boulevard de Kockelscheuer",wikidata,-,Q1954674,way
 "Boulevard de Kyiv",wikidata,-,Q1899,way
 "Boulevard de Verdun",wikidata,-,Q154748,way
@@ -31,6 +33,7 @@ Marché-aux-Poissons,wikidata,-,Q1420366,relation+way
 "Place des Bains",wikidata,-,Q76452931,way
 "Place des Martyrs",wikidata,-,Q471779,way
 "Place du Six Juin 1937",wikidata,-,Q4393792,way
+"Plateau du Saint-Esprit",wikidata,-,Q37302,way
 "Route d'Arlon",wikidata,-,Q675960,way
 "Route d'Echternach",wikidata,-,Q204317,way
 "Route d'Esch",wikidata,-,Q16010,way
@@ -91,7 +94,6 @@ Marché-aux-Poissons,wikidata,-,Q1420366,relation+way
 "Rue des Chênes",wikidata,-,Q12004,way
 "Rue des Coquelicots",wikidata,-,Q130201,way
 "Rue des Dahlias",wikidata,-,Q130918,way
-"Rue des Églantiers",wikidata,-,Q3580164,way
 "Rue des États-Unis",wikidata,-,Q30,way
 "Rue des Frênes",wikidata,-,Q128887,way
 "Rue des Gaulois",wikidata,-,Q273854,way
@@ -219,7 +221,7 @@ Marché-aux-Poissons,wikidata,-,Q1420366,relation+way
 "Place François-Joseph Dargent",wikidata,M,Q16439047,way
 "Place Guillaume II",wikidata,M,Q154287,way
 "Place Jean Heinisch",wikidata,M,Q24287738,way
-"Place Joseph Thorn",wikidata,M,Q16440228,way
+"Place Joseph Thorn",wikidata,M,Q16440228,relation+way
 "Place Léon XIII",wikidata,M,Q43922,way
 "Place Maurice Pescatore",wikidata,M,Q13104096,way
 "Place Saint-Willibrord",wikidata,M,Q160714,way
@@ -395,7 +397,6 @@ Marché-aux-Poissons,wikidata,-,Q1420366,relation+way
 "Rue Jean-Pierre Kemmer",wikidata,M,Q6169916,way
 "Rue Jean-Pierre Koenig",wikidata,M,Q15846570,way
 "Rue Jean-Pierre Koltz",wikidata,M,Q16439584,way
-"Rue Jean-Pierre Kuborn",wikidata,M,Q89786771,way
 "Rue Jean-Pierre Lamboray",wikidata,M,Q1685226,way
 "Rue Jean-Pierre Pier",wikidata,M,Q30609192,way
 "Rue Jean-Pierre Sauvage",wikidata,M,Q1685760,way
@@ -493,7 +494,6 @@ Marché-aux-Poissons,wikidata,-,Q1420366,relation+way
 "Rue Pierre Kohner",wikidata,M,Q105195974,way
 "Rue Pierre Krier",wikidata,M,Q13104571,way
 "Rue Pierre Maisonnet",wikidata,M,Q13104575,way
-"Rue Pierre Medawar",wikidata,M,Q90282335,way
 "Rue Pierre Notting",wikidata,M,Q7192385,way
 "Rue Pierre d'Aspelt",wikidata,M,Q66386,way
 "Rue Pierre de Coubertin",wikidata,M,Q82984,way
